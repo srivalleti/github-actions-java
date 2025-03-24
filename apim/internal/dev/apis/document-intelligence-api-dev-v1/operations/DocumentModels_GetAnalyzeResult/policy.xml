@@ -1,0 +1,15 @@
+<policies>
+	<inbound>
+		<base />
+		<rewrite-uri template="documentModels/{modelId}/analyzeResults/{resultId}?api-version=2024-11-30" />
+	</inbound>
+	<backend>
+		<base />
+	</backend>
+	<outbound>
+		<base />
+	</outbound>
+	<on-error>
+		<base />
+	</on-error>
+</policies>

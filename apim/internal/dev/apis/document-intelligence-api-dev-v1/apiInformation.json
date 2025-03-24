@@ -1,0 +1,18 @@
+{
+  "properties": {
+    "apiRevision": "1",
+    "apiRevisionDescription": "",
+    "apiVersion": "v1",
+    "apiVersionDescription": "",
+    "apiVersionSetId": "/subscriptions/8a6230b0-f983-4f3a-a4c1-5102a61f4c56/resourceGroups/dd-nonprd-wus-hub-apim-rg/providers/Microsoft.ApiManagement/service/dd-nonprd-wus-hub-apimv2/apiVersionSets/document-intelligence-api-dev",
+    "authenticationSettings": {},
+    "description": "This API is used to Analyze and Classify Documents using Azure Document Intelligence Service",
+    "displayName": "document-intelligence-api-dev",
+    "isCurrent": true,
+    "path": "document-intelligence/dev",
+    "protocols": [
+      "https"
+    ],
+    "subscriptionRequired": false
+  }
+}

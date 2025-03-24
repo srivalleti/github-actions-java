@@ -3410,16 +3410,16 @@
         "format": "binary"
       },
       "DocumentModelsModelIdAnalyzeResultsResultIdFiguresFigureIdGet200ImagePngResp": {
-        "type": "file"
+        "type": "string"
       },
       "DocumentModelsModelIdAnalyzeResultsResultIdFiguresFigureIdGet200ApplicationJ": {
-        "type": "file"
+        "type": "string"
       },
       "DocumentModelsModelIdAnalyzeResultsResultIdPdfGet200ApplicationPdfResponse": {
-        "type": "file"
+        "type": "string"
       },
       "DocumentModelsModelIdAnalyzeResultsResultIdPdfGet200ApplicationJsonResponse": {
-        "type": "file"
+        "type": "string"
       }
     },
     "securitySchemes": {

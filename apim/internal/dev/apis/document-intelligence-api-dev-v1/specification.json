@@ -285,7 +285,7 @@
             "in": "path",
             "required": true,
             "schema": {
-              "type": ""
+              "type": "string"
             }
           },
           {
